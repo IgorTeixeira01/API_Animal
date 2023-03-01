@@ -1,0 +1,1 @@
+ALTER TABLE tipo_mamifero DROP COLUMN pelo;
